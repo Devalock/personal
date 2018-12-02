@@ -44,7 +44,7 @@
 
 <body>
     <div class="content">
-        <h2>开始尝试的</h2>
+        <h2>开始尝试的第</h2>
         <div class="timer">
             <b id="d"></b> Days <b id="h"></b> Hours <b id="m"></b> Minutes <b id="s"></b> Seconds
         </div>
